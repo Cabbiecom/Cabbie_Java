@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "975123375740",
+    "firebase_url": "https://cabbiecormanfb-423600-default-rtdb.firebaseio.com",
+    "project_id": "cabbiecormanfb-423600",
+    "storage_bucket": "cabbiecormanfb-423600.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975123375740:android:ca95c6cf9df75595e18bf9",
+        "android_client_info": {
+          "package_name": "com.example.cabbie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975123375740-nchdcrunsf1q2dhce9pnl7p73a3oggph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBozFl4URuQTn_K0e6DT29QbHGxpFLssJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975123375740-nchdcrunsf1q2dhce9pnl7p73a3oggph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
